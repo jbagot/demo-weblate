@@ -50,7 +50,7 @@ msgstr ""
 
 #: weblate/templates/translation.html:175
 #: weblate/templates/unit-details.html:26
-msgid "Translation file"
+msgid "Translation file22"
 msgstr ""
 
 #: weblate/templates/translation.html:179
